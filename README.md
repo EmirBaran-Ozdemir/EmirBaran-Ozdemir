@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EmirBaran-Ozdemir
-- 👀 I’m interested in CyberSecurity and Python
+- 👀 I’m interested in CyberSecurity and Python, C, C++
 - 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lordwilee@outlook.com or emirbaran.fb@hotmail.com
