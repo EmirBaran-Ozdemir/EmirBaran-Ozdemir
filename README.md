@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emir Baran Özdemir</h1>
-<h3 align="center">A passionate low end language lover from Turkey.</h3>
+<h3 align="center">A passionate low-level language lover from Turkey.</h3>
 
 - 🔭 I’m currently working on [C++ Game Engine](https://github.com/EmirBaran-Ozdemir/LW-Game-Engine)
 
