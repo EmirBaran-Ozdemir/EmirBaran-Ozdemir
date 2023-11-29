@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++, Assembly, OpenGL and Compilers**
 
-- 💬 Ask me about **Python, Machine Learning, C and C++**
+- 💬 Ask me about **Python, Computer Vision, C and C++**
 
 - 📫 How to reach me **lordwilee@outlook.com**
 
