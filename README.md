@@ -29,8 +29,4 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emirbaran-ozdemir&show_icons=true&theme=highcontrast&title_color=a000ff&text_color=39ff14&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="emirbaran-ozdemir" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emirbaran-ozdemir&show_icons=true&theme=highcontrast&title_color=a000ff&text_color=39ff14&hide_border=true&locale=en" alt="emirbaran-ozdemir" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emirbaran-ozdemir&theme=highcontrast" alt="emirbaran-ozdemir" /></p>
